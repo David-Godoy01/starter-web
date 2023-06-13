@@ -3,8 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    David Godoy  david.godoy2503@gmail.com
+ 
 # THANKS
 
     <name>
